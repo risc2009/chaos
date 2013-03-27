@@ -1,1 +1,0 @@
-/Volumes/risc/chaos/test/hello_world/build/macosx/CMakeFiles/hello_world.dir
