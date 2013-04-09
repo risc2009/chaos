@@ -10,6 +10,6 @@ fi
 
 cd ../../build/re2c
 
-cmake ../../include/re2c
+cmake ../../project/re2c
 
 make
